@@ -21,7 +21,7 @@ I am currently studying the Kotlin programming language to become a future Mobil
 
 
 
-**Linguagens e Ferramentas:**  
+**Languages and  Tools:**  
 
 ![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-yellow?style=flat-square&logo=kotlin)

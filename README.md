@@ -1,7 +1,7 @@
 
 
 <h1 align = "justify"> Hello,I am Paulo Gustavo<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-<p align = "justify">
+
 - 🎯 I have 20 + years of experience in the IT sector;
 - 🎯 Mobile Android (2 years) (current focus);
 - 🎯 I am graduated with a Bachelor's in the information system Faculdade Santa Maria 2013.
